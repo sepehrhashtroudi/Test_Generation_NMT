@@ -116,7 +116,7 @@ ENV/
 /fairseq/version.py
 
 # data
-data-bin/
+
 
 # reranking
 /examples/reranking/rerank_data
